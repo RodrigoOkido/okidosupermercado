@@ -2,6 +2,7 @@ package supermercado;
 
 /*
  * Classe utilitaria que realiza calculos de media aritmetica
+ * çlk
  */
 public class Acumulador {
   private double valor;
